@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Задание 3. Проверка простого числа.
 namespace task3
 {
     public class Program
