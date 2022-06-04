@@ -1,6 +1,7 @@
 ﻿using System;
 
 // Задание 2. Программа подсчёта суммы карт в игре «21».
+
 namespace task2
 {
     public class Program
