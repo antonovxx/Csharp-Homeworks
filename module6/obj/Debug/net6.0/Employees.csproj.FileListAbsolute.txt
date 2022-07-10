@@ -1,0 +1,15 @@
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/bin/Debug/net6.0/Employees
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/bin/Debug/net6.0/Employees.deps.json
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/bin/Debug/net6.0/Employees.runtimeconfig.json
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/bin/Debug/net6.0/Employees.dll
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/bin/Debug/net6.0/Employees.pdb
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.csproj.AssemblyReference.cache
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.AssemblyInfoInputs.cache
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.AssemblyInfo.cs
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.csproj.CoreCompileInputs.cache
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.dll
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/refint/Employees.dll
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.pdb
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/Employees.genruntimeconfig.cache
+/Users/antonkurin/Documents/C# Projects/Tasks/Tasks/Employees/obj/Debug/net6.0/ref/Employees.dll
